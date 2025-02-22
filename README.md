@@ -28,22 +28,4 @@ A collection of purpose-built AI agents to automate specific tasks using the Cre
    python earnings_summariser.py
    ```
 
-## Adding New Agents
-
-Each agent in this repository follows these principles:
-- Single responsibility
-- Clear input/output interface
-- Focused on automation of specific tasks
-- Includes error handling and input validation
-
-## Contributing
-
-Feel free to contribute by:
-1. Adding new purpose-built agents
-2. Improving existing agents
-3. Enhancing documentation
-4. Reporting issues
-
-## License
-
-MIT License - feel free to use in your own projects.
+## New Agents coming soon
